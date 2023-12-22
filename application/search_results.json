@@ -1,0 +1,574 @@
+{
+    "common": [
+        {
+            "food_name": "apple",
+            "serving_unit": "medium (3\" dia)",
+            "tag_name": "apple",
+            "serving_qty": 1,
+            "common_type": null,
+            "tag_id": "384",
+            "photo": {
+                "thumb": "https://nix-tag-images.s3.amazonaws.com/384_thumb.jpg"
+            },
+            "locale": "en_US"
+        },
+        {
+            "food_name": "apples",
+            "serving_unit": "medium (3\" dia)",
+            "tag_name": "apple",
+            "serving_qty": 1,
+            "common_type": null,
+            "tag_id": "384",
+            "photo": {
+                "thumb": "https://nix-tag-images.s3.amazonaws.com/384_thumb.jpg"
+            },
+            "locale": "en_US"
+        },
+        {
+            "food_name": "apple pie",
+            "serving_unit": "piece (1/8 of 9\" dia)",
+            "tag_name": "Apple pie",
+            "serving_qty": 1,
+            "common_type": null,
+            "tag_id": "15060",
+            "photo": {
+                "thumb": "https://nix-tag-images.s3.amazonaws.com/1291_thumb.jpg"
+            },
+            "locale": "en_US"
+        },
+        {
+            "food_name": "appletini",
+            "serving_unit": "cocktail",
+            "tag_name": "appletini",
+            "serving_qty": 1,
+            "common_type": null,
+            "tag_id": "5031",
+            "photo": {
+                "thumb": "https://nix-tag-images.s3.amazonaws.com/5031_thumb.jpg"
+            },
+            "locale": "en_US"
+        },
+        {
+            "food_name": "applesauce",
+            "serving_unit": "container",
+            "tag_name": "apple sauce",
+            "serving_qty": 1,
+            "common_type": null,
+            "tag_id": "386",
+            "photo": {
+                "thumb": "https://nix-tag-images.s3.amazonaws.com/386_thumb.jpg"
+            },
+            "locale": "en_US"
+        },
+        {
+            "food_name": "applejuice",
+            "serving_unit": "cup",
+            "tag_name": "apple juice",
+            "serving_qty": 1,
+            "common_type": null,
+            "tag_id": "385",
+            "photo": {
+                "thumb": "https://nix-tag-images.s3.amazonaws.com/385_thumb.jpg"
+            },
+            "locale": "en_US"
+        },
+        {
+            "food_name": "fuji apple",
+            "serving_unit": "medium",
+            "tag_name": "fuji apple",
+            "serving_qty": 1,
+            "common_type": null,
+            "tag_id": "2155",
+            "photo": {
+                "thumb": "https://nix-tag-images.s3.amazonaws.com/2155_thumb.jpg"
+            },
+            "locale": "en_US"
+        },
+        {
+            "food_name": "gala apple",
+            "serving_unit": "medium",
+            "tag_name": "gala apple",
+            "serving_qty": 1,
+            "common_type": null,
+            "tag_id": "2049",
+            "photo": {
+                "thumb": "https://nix-tag-images.s3.amazonaws.com/2049_thumb.jpg"
+            },
+            "locale": "en_US"
+        },
+        {
+            "food_name": "apple cider",
+            "serving_unit": "cup",
+            "tag_name": "apple cider",
+            "serving_qty": 1,
+            "common_type": null,
+            "tag_id": "213",
+            "photo": {
+                "thumb": "https://d2eawub7utcl6.cloudfront.net/images/nix-apple-grey.png",
+                "highres": null,
+                "is_user_uploaded": false
+            },
+            "locale": "en_US"
+        },
+        {
+            "food_name": "green apple",
+            "serving_unit": "medium (3\" dia)",
+            "tag_name": "green apple",
+            "serving_qty": 1,
+            "common_type": null,
+            "tag_id": "8158",
+            "photo": {
+                "thumb": "https://nix-tag-images.s3.amazonaws.com/8158_thumb.jpg"
+            },
+            "locale": "en_US"
+        },
+        {
+            "food_name": "apple sauce",
+            "serving_unit": "container",
+            "tag_name": "apple sauce",
+            "serving_qty": 1,
+            "common_type": null,
+            "tag_id": "386",
+            "photo": {
+                "thumb": "https://nix-tag-images.s3.amazonaws.com/386_thumb.jpg"
+            },
+            "locale": "en_US"
+        },
+        {
+            "food_name": "apple juice",
+            "serving_unit": "cup",
+            "tag_name": "apple juice",
+            "serving_qty": 1,
+            "common_type": null,
+            "tag_id": "385",
+            "photo": {
+                "thumb": "https://nix-tag-images.s3.amazonaws.com/385_thumb.jpg"
+            },
+            "locale": "en_US"
+        },
+        {
+            "food_name": "yellow apple",
+            "serving_unit": "medium",
+            "tag_name": "golden delicious apple",
+            "serving_qty": 1,
+            "common_type": null,
+            "tag_id": "3730",
+            "photo": {
+                "thumb": "https://nix-tag-images.s3.amazonaws.com/3730_thumb.jpg"
+            },
+            "locale": "en_US"
+        },
+        {
+            "food_name": "apple oatmeal",
+            "serving_unit": "packet",
+            "tag_name": "apple cinnamon oatmeal",
+            "serving_qty": 1,
+            "common_type": null,
+            "tag_id": "3500",
+            "photo": {
+                "thumb": "https://nix-tag-images.s3.amazonaws.com/3500_thumb.jpg"
+            },
+            "locale": "en_US"
+        },
+        {
+            "food_name": "apple strudel",
+            "serving_unit": "Piece",
+            "tag_name": "apfelstrudel",
+            "serving_qty": 1,
+            "common_type": null,
+            "tag_id": "2190",
+            "photo": {
+                "thumb": "https://d2eawub7utcl6.cloudfront.net/images/nix-apple-grey.png",
+                "highres": null,
+                "is_user_uploaded": false
+            },
+            "locale": "en_US"
+        },
+        {
+            "food_name": "honeycrisp apple",
+            "serving_unit": "medium (3\" dia)",
+            "tag_name": "honeycrisp apple",
+            "serving_qty": 1,
+            "common_type": null,
+            "tag_id": "7827",
+            "photo": {
+                "thumb": "https://nix-tag-images.s3.amazonaws.com/7827_thumb.jpg"
+            },
+            "locale": "en_US"
+        },
+        {
+            "food_name": "honeycrisp apples",
+            "serving_unit": "medium (3\" dia)",
+            "tag_name": "honeycrisp apple",
+            "serving_qty": 1,
+            "common_type": null,
+            "tag_id": "7827",
+            "photo": {
+                "thumb": "https://nix-tag-images.s3.amazonaws.com/7827_thumb.jpg"
+            },
+            "locale": "en_US"
+        },
+        {
+            "food_name": "apple cider vinegar",
+            "serving_unit": "tbsp",
+            "tag_name": "apple cider vinegar",
+            "serving_qty": 1,
+            "common_type": null,
+            "tag_id": "479",
+            "photo": {
+                "thumb": "https://nix-tag-images.s3.amazonaws.com/479_thumb.jpg"
+            },
+            "locale": "en_US"
+        },
+        {
+            "food_name": "unsweetened applesauce",
+            "serving_unit": "cup",
+            "tag_name": "unsweetened applesauce",
+            "serving_qty": 1,
+            "common_type": null,
+            "tag_id": "2890",
+            "photo": {
+                "thumb": "https://nix-tag-images.s3.amazonaws.com/2890_thumb.jpg"
+            },
+            "locale": "en_US"
+        },
+        {
+            "food_name": "applesauce unsweetened",
+            "serving_unit": "cup",
+            "tag_name": "unsweetened applesauce",
+            "serving_qty": 1,
+            "common_type": null,
+            "tag_id": "2890",
+            "photo": {
+                "thumb": "https://nix-tag-images.s3.amazonaws.com/2890_thumb.jpg"
+            },
+            "locale": "en_US"
+        }
+    ],
+    "branded": [
+        {
+            "food_name": "Chicken & Maple Breakfast Sausage",
+            "serving_unit": "links",
+            "nix_brand_id": "51db37b5176fe9790a8988b3",
+            "brand_name_item_name": "Applegate Chicken & Maple Breakfast Sausage",
+            "serving_qty": 3,
+            "nf_calories": 110,
+            "photo": {
+                "thumb": "https://nutritionix-api.s3.amazonaws.com/53fb42bff41721ed4d485eb2.jpeg"
+            },
+            "brand_name": "Applegate",
+            "region": 1,
+            "brand_type": 2,
+            "nix_item_id": "51c36af597c3e69de4b07630",
+            "locale": "en_US"
+        },
+        {
+            "food_name": "Roasted Turkey Breast, Organic",
+            "serving_unit": "slices",
+            "nix_brand_id": "51db37b5176fe9790a8988b3",
+            "brand_name_item_name": "Applegate Roasted Turkey Breast, Organic",
+            "serving_qty": 2,
+            "nf_calories": 50,
+            "photo": {
+                "thumb": "https://nutritionix-api.s3.amazonaws.com/5deb57b705fc9a4277928da0.jpeg"
+            },
+            "brand_name": "Applegate",
+            "region": 1,
+            "brand_type": 2,
+            "nix_item_id": "51c36afa97c3e69de4b0765c",
+            "locale": "en_US"
+        },
+        {
+            "food_name": "Savory Turkey Breakfast Sausage",
+            "serving_unit": "links",
+            "nix_brand_id": "51db37b5176fe9790a8988b3",
+            "brand_name_item_name": "Applegate Savory Turkey Breakfast Sausage",
+            "serving_qty": 3,
+            "nf_calories": 90,
+            "photo": {
+                "thumb": "https://nutritionix-api.s3.amazonaws.com/53600a3625b29d1111f06903.jpeg"
+            },
+            "brand_name": "Applegate",
+            "region": 1,
+            "brand_type": 2,
+            "nix_item_id": "51c36afa97c3e69de4b07658",
+            "locale": "en_US"
+        },
+        {
+            "food_name": "Uncured Turkey Pepperoni",
+            "serving_unit": "slices",
+            "nix_brand_id": "526831043203b9c33900009c",
+            "brand_name_item_name": "Applegate Naturals Uncured Turkey Pepperoni",
+            "serving_qty": 17,
+            "nf_calories": 80,
+            "photo": {
+                "thumb": "https://nutritionix-api.s3.amazonaws.com/60881850229fa60006d50489.jpeg"
+            },
+            "brand_name": "Applegate Naturals",
+            "region": 1,
+            "brand_type": 2,
+            "nix_item_id": "53e8bc567362ef5238f5e3bb",
+            "locale": "en_US"
+        },
+        {
+            "food_name": "Uncured Bacon",
+            "serving_unit": "pan fried slices",
+            "nix_brand_id": "51db37b5176fe9790a8988b3",
+            "brand_name_item_name": "Applegate Uncured Bacon",
+            "serving_qty": 2,
+            "nf_calories": 70,
+            "photo": {
+                "thumb": "https://nutritionix-api.s3.amazonaws.com/63c923966d1ea400083c238b.jpeg"
+            },
+            "brand_name": "Applegate",
+            "region": 1,
+            "brand_type": 2,
+            "nix_item_id": "59f038e7d0c8a7c150bda3e7",
+            "locale": "en_US"
+        },
+        {
+            "food_name": "Turkey Breast, Oven Roasted",
+            "serving_unit": "slices",
+            "nix_brand_id": "526831043203b9c33900009c",
+            "brand_name_item_name": "Applegate Naturals Turkey Breast, Oven Roasted",
+            "serving_qty": 2,
+            "nf_calories": 50,
+            "photo": {
+                "thumb": "https://nutritionix-api.s3.amazonaws.com/5e5e052d3a780e240b486a12.jpeg"
+            },
+            "brand_name": "Applegate Naturals",
+            "region": 1,
+            "brand_type": 2,
+            "nix_item_id": "51c36af997c3e69de4b07652",
+            "locale": "en_US"
+        },
+        {
+            "food_name": "Uncured Black Forest Ham",
+            "serving_unit": "slices",
+            "nix_brand_id": "51db37b5176fe9790a8988b3",
+            "brand_name_item_name": "Applegate Uncured Black Forest Ham",
+            "serving_qty": 2,
+            "nf_calories": 70,
+            "photo": {
+                "thumb": "https://nutritionix-api.s3.amazonaws.com/5395b820398dc8456519c43d.jpeg"
+            },
+            "brand_name": "Applegate",
+            "region": 1,
+            "brand_type": 2,
+            "nix_item_id": "51c36add97c3e69de4b0758a",
+            "locale": "en_US"
+        },
+        {
+            "food_name": "Rice Cakes, Apple Cinnamon",
+            "serving_unit": "cake",
+            "nix_brand_id": "51db37b5176fe9790a898851",
+            "brand_name_item_name": "Quaker Rice Cakes, Apple Cinnamon",
+            "serving_qty": 1,
+            "nf_calories": 50,
+            "photo": {
+                "thumb": "https://nutritionix-api.s3.amazonaws.com/6071aebc34e85a0008ed52a2.jpeg"
+            },
+            "brand_name": "Quaker",
+            "region": 1,
+            "brand_type": 2,
+            "nix_item_id": "51c36eaf97c3e69de4b09495",
+            "locale": "en_US"
+        },
+        {
+            "food_name": "Chicken & Apple Sausage, Mild",
+            "serving_unit": "link",
+            "nix_brand_id": "51db37b5176fe9790a8988b0",
+            "brand_name_item_name": "Applegate Farms Chicken & Apple Sausage, Mild",
+            "serving_qty": 1,
+            "nf_calories": 150,
+            "photo": {
+                "thumb": "https://d2eawub7utcl6.cloudfront.net/images/nix-apple-grey.png",
+                "highres": null,
+                "is_user_uploaded": false
+            },
+            "brand_name": "Applegate Farms",
+            "region": 1,
+            "brand_type": 2,
+            "nix_item_id": "51c36ade97c3e69de4b07598",
+            "locale": "en_US"
+        },
+        {
+            "food_name": "Uncured Turkey Bacon, Hickory Smoked",
+            "serving_unit": "pan fried slice",
+            "nix_brand_id": "526831043203b9c33900009c",
+            "brand_name_item_name": "Applegate Naturals Uncured Turkey Bacon, Hickory Smoked",
+            "serving_qty": 1,
+            "nf_calories": 30,
+            "photo": {
+                "thumb": "https://nutritionix-api.s3.amazonaws.com/5ecbd0d10a644f194cbdf7de.jpeg"
+            },
+            "brand_name": "Applegate Naturals",
+            "region": 1,
+            "brand_type": 2,
+            "nix_item_id": "51c36ade97c3e69de4b07591",
+            "locale": "en_US"
+        },
+        {
+            "food_name": "Chicken & Apple Breakfast Sausage",
+            "serving_unit": "links",
+            "nix_brand_id": "51db37b5176fe9790a8988b3",
+            "brand_name_item_name": "Applegate Chicken & Apple Breakfast Sausage",
+            "serving_qty": 3,
+            "nf_calories": 120,
+            "photo": {
+                "thumb": "https://nutritionix-api.s3.amazonaws.com/53fb43268e64106e13ca2b86.jpeg"
+            },
+            "brand_name": "Applegate",
+            "region": 1,
+            "brand_type": 2,
+            "nix_item_id": "51c36add97c3e69de4b07586",
+            "locale": "en_US"
+        },
+        {
+            "food_name": "Savory Turkey Breakfast Sausage Patties",
+            "serving_unit": "patty",
+            "nix_brand_id": "526831043203b9c33900009c",
+            "brand_name_item_name": "Applegate Naturals Savory Turkey Breakfast Sausage Patties",
+            "serving_qty": 1,
+            "nf_calories": 50,
+            "photo": {
+                "thumb": "https://nutritionix-api.s3.amazonaws.com/6374c35fbb71180008413129.jpeg"
+            },
+            "brand_name": "Applegate Naturals",
+            "region": 1,
+            "brand_type": 2,
+            "nix_item_id": "53fb41662cc4f0764e1de019",
+            "locale": "en_US"
+        },
+        {
+            "food_name": "Breakfast Sausage Patties, Chicken & Apple",
+            "serving_unit": "patty",
+            "nix_brand_id": "526831043203b9c33900009c",
+            "brand_name_item_name": "Applegate Naturals Breakfast Sausage Patties, Chicken & Apple",
+            "serving_qty": 1,
+            "nf_calories": 60,
+            "photo": {
+                "thumb": "https://assets.syndigo.com/bb61e7c2-72c2-41e6-88ea-abc1ab7ea6fb"
+            },
+            "brand_name": "Applegate Naturals",
+            "region": 1,
+            "brand_type": 2,
+            "nix_item_id": "53fb41652cc4f0764e1de017",
+            "locale": "en_US"
+        },
+        {
+            "food_name": "Chicken Breast, Organic Roasted",
+            "serving_unit": "slices",
+            "nix_brand_id": "51db37b5176fe9790a8988b0",
+            "brand_name_item_name": "Applegate Farms Chicken Breast, Organic Roasted",
+            "serving_qty": 3,
+            "nf_calories": 50,
+            "photo": {
+                "thumb": "https://d2eawub7utcl6.cloudfront.net/images/nix-apple-grey.png",
+                "highres": null,
+                "is_user_uploaded": false
+            },
+            "brand_name": "Applegate Farms",
+            "region": 1,
+            "brand_type": 2,
+            "nix_item_id": "51c36ade97c3e69de4b07599",
+            "locale": "en_US"
+        },
+        {
+            "food_name": "Chicken & Maple Breakfast Sausage Patties",
+            "serving_unit": "patty",
+            "nix_brand_id": "526831043203b9c33900009c",
+            "brand_name_item_name": "Applegate Naturals Chicken & Maple Breakfast Sausage Patties",
+            "serving_qty": 1,
+            "nf_calories": 60,
+            "photo": {
+                "thumb": "https://nutritionix-api.s3.amazonaws.com/53fb4323ccd973a02c4fbbd3.jpeg"
+            },
+            "brand_name": "Applegate Naturals",
+            "region": 1,
+            "brand_type": 2,
+            "nix_item_id": "53fb41652cc4f0764e1de018",
+            "locale": "en_US"
+        },
+        {
+            "food_name": "Turkey Bacon",
+            "serving_unit": "slice",
+            "nix_brand_id": "528394df5953f4020000000a",
+            "brand_name_item_name": "Appleton Farms Turkey Bacon",
+            "serving_qty": 1,
+            "nf_calories": 30,
+            "photo": {
+                "thumb": "https://nutritionix-api.s3.amazonaws.com/5e43a3a5a2ec995f2cff7ca7.jpeg"
+            },
+            "brand_name": "Appleton Farms",
+            "region": 1,
+            "brand_type": 2,
+            "nix_item_id": "5e43a3a10fb853202b606257",
+            "locale": "en_US"
+        },
+        {
+            "food_name": "Breakfast Sausage, Chicken & Apple",
+            "serving_unit": "links",
+            "nix_brand_id": "51db37b5176fe9790a8988b3",
+            "brand_name_item_name": "Applegate Breakfast Sausage, Chicken & Apple",
+            "serving_qty": 3,
+            "nf_calories": 120,
+            "photo": {
+                "thumb": "https://nutritionix-api.s3.amazonaws.com/57d5944e688f33a80acc3b1d.jpeg"
+            },
+            "brand_name": "Applegate",
+            "region": 1,
+            "brand_type": 2,
+            "nix_item_id": "57d594a786a680243dc01da1",
+            "locale": "en_US"
+        },
+        {
+            "food_name": "Caramel Apple Pie Greek Yogurt",
+            "serving_unit": "container",
+            "nix_brand_id": "54de6c551e0d973c7da3c5b9",
+            "brand_name_item_name": "Dannon Light & Fit Caramel Apple Pie Greek Yogurt",
+            "serving_qty": 1,
+            "nf_calories": 80,
+            "photo": {
+                "thumb": "https://nutritionix-api.s3.amazonaws.com/578706f4e0e3cf6c5c20d2d9.jpeg"
+            },
+            "brand_name": "Dannon Light & Fit",
+            "region": 1,
+            "brand_type": 2,
+            "nix_item_id": "578707998eb128fc315a5be2",
+            "locale": "en_US"
+        },
+        {
+            "food_name": "Smoked Turkey Breast",
+            "serving_unit": "slices",
+            "nix_brand_id": "526831043203b9c33900009c",
+            "brand_name_item_name": "Applegate Naturals Smoked Turkey Breast",
+            "serving_qty": 2,
+            "nf_calories": 50,
+            "photo": {
+                "thumb": "https://nutritionix-api.s3.amazonaws.com/604e1611633fc100095484e5.jpeg"
+            },
+            "brand_name": "Applegate Naturals",
+            "region": 1,
+            "brand_type": 2,
+            "nix_item_id": "51c36af897c3e69de4b07649",
+            "locale": "en_US"
+        },
+        {
+            "food_name": "GoGo Squeez, Apple Sauce on the Go, Apple Cinnamon",
+            "serving_unit": "pouch",
+            "nix_brand_id": "51db37b1176fe9790a898495",
+            "brand_name_item_name": "Materne GoGo Squeez, Apple Sauce on the Go, Apple Cinnamon",
+            "serving_qty": 1,
+            "nf_calories": 70,
+            "photo": {
+                "thumb": "https://nutritionix-api.s3.amazonaws.com/53d8f1e1cc4c251f3ddf62f8.jpeg"
+            },
+            "brand_name": "Materne",
+            "region": 1,
+            "brand_type": 2,
+            "nix_item_id": "53d8ef76cc4c251f3ddf61b3",
+            "locale": "en_US"
+        }
+    ]
+}
