@@ -1,2 +1,2 @@
-## Meal AI
+## Savor
 
